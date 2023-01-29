@@ -1,6 +1,5 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/illustrated-machine-learning/illustrated-machine-learning.github.io/main/img/banner.png" >
-</p>
+![banner](https://user-images.githubusercontent.com/74464364/215357973-2df0d4d5-3458-4968-a338-71caad0ad7ce.png)
+
 
 Welcome to our website, where **we strive to make the complex world of Machine Learning more approachable through clear and concise illustrations**. Our goal is to provide a visual aid for **students**, **professionals**, and anyone preparing for a **technical interview** to better understand the underlying concepts of Machine Learning. 
 
